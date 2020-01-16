@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Developement\VS 2019\SFML\Pong\Main.cpp(10,1): warning C4005: '_WIN32_WINNT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sdkddkver.h(217): message : see previous definition of '_WIN32_WINNT'
+C:\Developement\VS 2019\SFML\Pong\Main.cpp(27,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Developement\VS 2019\SFML\Pong\Main.cpp(27,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Developement\VS 2019\SFML\Pong\Main.cpp(28,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pong.vcxproj -> C:\Developement\VS 2019\SFML\Pong\x64\Debug\Pong.exe
